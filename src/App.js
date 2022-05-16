@@ -26,7 +26,7 @@ function App() {
           <Route path='mech/techwrite' element={<Techwrite />} />
           <Route path='civil/onlinetreasurehunt' element={<Treahunt />} />
           <Route path='eee/riddle' element={<Riddle />} /> */}
-          <Route exact path='/Photography' element={<Photography />} />
+          <Route exact path='/Photograpy' element={<Photography />} />
           {/* </Route> */}
         </Routes>
       </BrowserRouter>
