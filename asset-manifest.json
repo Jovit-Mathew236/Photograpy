@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Photograpy/static/css/main.c33be14a.css",
-    "main.js": "/Photograpy/static/js/main.16f4d81e.js",
-    "static/media/emergebg.jpg": "/Photograpy/static/media/emergebg.9e3d4f6e5174ea9f9457.jpg",
-    "static/media/CIVISTAbg.jpg": "/Photograpy/static/media/CIVISTAbg.ee2cc23a3898b58881bd.jpg",
-    "static/media/MECHAURAbg.jpg": "/Photograpy/static/media/MECHAURAbg.01dfebfd57fbf1632359.jpg",
-    "static/media/RADIANCEbg.jpg": "/Photograpy/static/media/RADIANCEbg.a8f4f3606be4c880d876.jpg",
-    "index.html": "/Photograpy/index.html",
-    "main.c33be14a.css.map": "/Photograpy/static/css/main.c33be14a.css.map",
-    "main.16f4d81e.js.map": "/Photograpy/static/js/main.16f4d81e.js.map"
+    "main.css": "/Photography/static/css/main.7905e902.css",
+    "main.js": "/Photography/static/js/main.a0e963bf.js",
+    "static/media/emergebg.jpg": "/Photography/static/media/emergebg.9e3d4f6e5174ea9f9457.jpg",
+    "static/media/CIVISTAbg.jpg": "/Photography/static/media/CIVISTAbg.ee2cc23a3898b58881bd.jpg",
+    "static/media/MECHAURAbg.jpg": "/Photography/static/media/MECHAURAbg.01dfebfd57fbf1632359.jpg",
+    "static/media/RADIANCEbg.jpg": "/Photography/static/media/RADIANCEbg.a8f4f3606be4c880d876.jpg",
+    "index.html": "/Photography/index.html",
+    "main.7905e902.css.map": "/Photography/static/css/main.7905e902.css.map",
+    "main.a0e963bf.js.map": "/Photography/static/js/main.a0e963bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.c33be14a.css",
-    "static/js/main.16f4d81e.js"
+    "static/css/main.7905e902.css",
+    "static/js/main.a0e963bf.js"
   ]
 }
