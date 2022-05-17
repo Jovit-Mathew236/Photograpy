@@ -260,7 +260,9 @@ form input[type="file"] {
   color: blue;
   margin-left: 2px;
 }
-
+.image-input{
+  margin-left: -16px;
+}
 
 /* others */
 
